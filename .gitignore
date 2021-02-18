@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 
-code/3_homework_solutions_ggplot.R
+# code/3_homework_solutions_ggplot.R
